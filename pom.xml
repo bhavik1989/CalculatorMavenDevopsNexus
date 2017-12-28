@@ -13,7 +13,7 @@
       <uniqueVersion>false</uniqueVersion>
       <id>MavenCalculator</id>
       <name>Calculator</name>
-      <url>http://localhost:8081/repository/maven-calculator-simple/</url>
+      <url>http://localhost:8081/repository/maven-snapshots/</url>
       <layout>default</layout>
     </repository>
   </distributionManagement>
