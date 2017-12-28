@@ -4,16 +4,16 @@
 
     <groupId>edu.wctc.jjs</groupId>
     <artifactId>CalculatorMaven</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>war</packaging>
 
     
   <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
-      <id>MavenCalculator</id>
-      <name>Calculator</name>
-      <url>http://localhost:8081/repository/maven-snapshots/</url>
+      <id>Nexus</id>
+      <name>Nexus</name>
+      <url>http://localhost:8081/repository/maven-calculator-simple/</url>
       <layout>default</layout>
     </repository>
   </distributionManagement>
